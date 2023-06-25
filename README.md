@@ -8,7 +8,7 @@ Hello, my name is Vivek M G, and I am a B Tech Computer Science and Engineering 
 
 * 🌍  I'm based in Chennai, Tamil Nadu, India
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/vm4512)
-* ✉️  You can contact me at [vivekmg31@gmail.com](mailto:vivekmg31@gmail.com)
+* ✉️  You can contact me at [vivekmg31@gmail.com](mailto:vm4512@srmist.edu.in)
 * 🧠  I'm learning Object Orient Design and Programming using C++
 
 <a href="https://www.github.com/wiiwake3101" target="_blank" rel="noreferrer"><img
