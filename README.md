@@ -1,12 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="450" src="https://media.tenor.com/i0nzuUl-6wQAAAAC/background.gif"  />
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  />
 </div>
 
 ###
 
-<h2 align="center">Hi 👋! My name is Vivek M G and I'm an Undergraduate CS student, from SRM Institute of Science and Technology</h2>
+<h2 align="center">Hi 👋! My name is Vivek M G and I'm an Undergraduate CS student, from SRM Insitute of Science and Technology</h2>
 
 ###
 
