@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Vivek M G and I'm an Undergraduate CS student, from SRM Insitute of Science and Technology</h2>
+<h2 align="center">Hi 👋! My name is Vivek M G and I'm an Undergraduate CS student, from SRM Institute of Science and Technology</h2>
 
 ###
 
