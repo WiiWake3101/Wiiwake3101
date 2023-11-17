@@ -13,7 +13,10 @@
 <p align="center">Hello, my name is Vivek M G, and I am a B Tech Computer Science and Engineering student at SRM Institute of Science and Technology, Kattankulathur, Chennai. I am passionate about coding, gaming, and designing, and I'm eager to apply my skills and knowledge to real-world situations.<br><br>Throughout my academic career, I have developed a strong foundation in programming languages like Python and database management systems like MySQL. I am a quick learner, highly organized, and enjoy working in team environments.<br><br>In my free time, I enjoy playing games and designing posters or banners for YouTube or Twitter. I believe that these activities contribute to my success by keeping me energized and motivated.</p>
 
 ###
-
+<div align="center">
+  <h2>GitHub Trophy</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Wiiwake3101&theme=dracula" alt="GitHub Trophy" />
+</div>
 <h2 align="center">Contributions</h2>
 
 ###
@@ -23,6 +26,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wiiwake3101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wiiwake3101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <br clear="both">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Wiiwake3101&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ###
@@ -59,6 +64,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+<h2 align="center">Designing Tool</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
