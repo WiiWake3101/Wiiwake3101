@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Hello, my name is Vivek M G, and I am a B Tech Computer Science and Engineering student at SRM Institute of Science and Technology, Kattankulathur, Chennai. I am passionate about coding, gaming, and designing, and I'm eager to apply my skills and knowledge to real-world situations.<br><br>Throughout my academic career, I have developed a strong foundation in programming languages like Python and database management systems like MySQL. I am a quick learner, highly organized, and enjoy working in team environments.<br><br>In my free time, I enjoy playing games and designing posters or banners for YouTube or Twitter. I believe that these activities contribute to my success by keeping me energized and motivated.</p>
+<p align="center">Hello, my name is Vivek M G, and I am a B Tech Computer Science and Engineering student at SRM Institute of Science and Technology, Kattankulathur, Chennai. I am passionate about coding, gaming, and designing, and I'm eager to apply my skills and knowledge to real-world situations.<br><br>Throughout my academic career, I have developed a strong foundation in programming languages like Python and database management systems like MySQL. Additionally, as a Creative Member of the Alexa Developer SRM Student Club, I've expanded my expertise to include Java, HTML, CSS, and basic JavaScript, enhancing my abilities to develop innovative applications for voice interfaces and web technologies.<br><br>I am a quick learner, highly organized, and enjoy working in team environments. In my free time, I enjoy playing games and designing posters or banners for YouTube or Twitter. I believe that these activities contribute to my success by keeping me energized and motivated.</p>
 
 ###
 <div align="center">
