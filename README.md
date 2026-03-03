@@ -1,116 +1,178 @@
-<br clear="both">
-
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vivek%20M%20G&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Embedded%20AI%20%7C%20IoT%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+
 </div>
 
-###
-
-<h2 align="center">Hi 👋! My name is Vivek M G and I'm an Undergraduate CS student, from SRM Insitute of Science and Technology</h2>
-
-###
-
-<p align="center">Hello, my name is Vivek M G, and I am a B Tech Computer Science and Engineering student at SRM Institute of Science and Technology, Kattankulathur, Chennai. I am passionate about coding, gaming, and designing, and I'm eager to apply my skills and knowledge to real-world situations.<br><br>Throughout my academic career, I have developed a strong foundation in programming languages like Python and database management systems like MySQL. Additionally, as a Creative Member of the Alexa Developer SRM Student Club, I've expanded my expertise to include Java, HTML, CSS, and basic JavaScript, enhancing my abilities to develop innovative applications for voice interfaces and web technologies.<br><br>I am a quick learner, highly organized, and enjoy working in team environments. In my free time, I enjoy playing games and designing posters or banners for YouTube or Twitter. I believe that these activities contribute to my success by keeping me energized and motivated.</p>
-
-###
 <div align="center">
-  <h2>GitHub Trophy</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Wiiwake3101&theme=dracula" alt="GitHub Trophy" />
-</div>
-<h2 align="center">Contributions</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wiiwake3101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wiiwake3101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <br clear="both">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Wiiwake3101&theme=dark" alt="GitHub Streak" /></a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </div>
 
-###
+</br>
 
-<h2 align="center">Profile View Count</h2>
+---
 
-###
+## 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Wiiwake3101/count.svg?"  />
-</div>
+```yaml
+name       : Vivek M G
+location   : Chennai, Tamil Nadu, India
+university : SRM Institute of Science and Technology, Kattankulathur
+degree     : B.Tech Computer Science & Engineering
+email      : vivekmg31@gmail.com
 
-###
+research_interests:
+  - Embedded AI and TinyML
+  - Internet of Things (IoT)
+  - Artificial Intelligence and Machine Learning
 
-<h2 align="center">Language Known</h2>
+experience:
+  - R&D Intern at Samsung India (Mar 2024 - Dec 2024)
+    - Smart Home Anomaly Detection using GenAI (LLAMA2-7b + Isolation Forest)
+    - 80.2% accuracy with less than 100ms real-time latency
 
-###
+current_project:
+  - Embedded ML for Early Heart Attack Prediction
+    - Arduino Nano BLE 33 + TensorFlow Lite  |  96% accuracy
 
-<br clear="both">
+achievements:
+  - 3rd Place - Enduraverse 25 Hackathon, Endurance Technologies Ltd
+  - Creatives Lead - Alexaverse flagship event by Alexa Developers SRM
+  - Volunteer at Beyond Pages Trust (taught CS to high school students)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
+fun_facts:
+  - Passionate gamer  |  Poster and banner designer
+  - Certified by GitHub, Cisco and NPTEL (IIT Madras + IIT Kharagpur)
+  - Grade 6 certified musician (2011-2020)
+```
 
-###
+<br/>
 
-<h2 align="center">Designing Tool</h2>
+---
 
-###
-
-<br clear="both">
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wiiwake3101&theme=radical" alt="Profile Summary" width="95%"/>
 </div>
 
-###
+<br/>
 
-<h2 align="center">Social Media</h2>
+---
 
-###
-
-<br clear="both">
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.instagram.com/wiiwake_3101/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/wiiwake_3101" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:vm4512@srmist.edu.in?cc=vivekmg31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/vm4512/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wiiwake3101&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wiiwake3101&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" height="170" alt="Top Languages"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Wiiwake3101&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak"/>
+</div>
 
-###
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Arduino C](https://img.shields.io/badge/Arduino_C-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**AI / ML / Embedded**
+
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Hardware and IoT**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+**Web Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases and Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Tools and Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wiiwake3101&theme=radical&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</div>
+
+<br/>
+
+---
+
+## 🐍 Snake eating my contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wiiwake3101/Wiiwake3101/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wiiwake3101/Wiiwake3101/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Wiiwake3101/Wiiwake3101/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+> **To activate:** Add the `snake.yml` workflow file to `.github/workflows/` in your profile repo (`Wiiwake3101/Wiiwake3101`), then trigger it manually once from the Actions tab. The snake will then auto-update every 12 hours.
+
+<br/>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vm4512/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wiiwake_3101/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/wiiwake_3101)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekmg31@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wiiwake3101&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
