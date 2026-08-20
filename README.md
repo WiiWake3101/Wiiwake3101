@@ -29,7 +29,7 @@ research_interests:
 experience:
   - R&D Intern at Samsung India (Mar 2024 - Dec 2024)
     - Smart Home Anomaly Detection using GenAI (LLAMA2-7b + Isolation Forest)
-    - 80.2% accuracy with less than 100ms real-time latency
+    - 90% accuracy with less than 100ms real-time latency
 
 current_project:
   - Embedded ML for Early Heart Attack Prediction
