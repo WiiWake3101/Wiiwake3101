@@ -16,9 +16,9 @@
 
 ```yaml
 name       : Vivek M G
-location   : Chennai, Tamil Nadu, India
-university : SRM Institute of Science and Technology, Kattankulathur
-degree     : B.Tech Computer Science & Engineering
+location   : Singapore, North West
+university : National University of Singapore
+degree     : Master of Science in Computer Engineering
 email      : vivekmg31@gmail.com
 
 research_interests:
