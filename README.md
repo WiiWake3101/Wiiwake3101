@@ -64,13 +64,9 @@ fun_facts:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wiiwake3101&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wiiwake3101&theme=radical" height="170" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wiiwake3101&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" height="170" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Wiiwake3101&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wiiwake3101&theme=radical" height="170" alt="Top Languages by Repository"/>
 </div>
 
 <br/>
