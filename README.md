@@ -32,12 +32,13 @@ experience:
     - 90% accuracy with less than 100ms real-time latency
 
 current_project:
+  - Integrating IoT Health Monitoring Devices in an EV Vehicle
+    - Arduino Nano ESP32 + A7670E + DFrobot Gravity I2C to Dual UART Module + App dev
   - Embedded ML for Early Heart Attack Prediction
     - Arduino Nano BLE 33 + TensorFlow Lite  |  96% accuracy
 
 achievements:
   - 3rd Place - Enduraverse 25 Hackathon, Endurance Technologies Ltd
-  - Creatives Lead - Alexaverse flagship event by Alexa Developers SRM
   - Volunteer at Beyond Pages Trust (taught CS to high school students)
 
 fun_facts:
