@@ -128,7 +128,7 @@ fun_facts:
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wiiwake3101&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=Wiiwake3101&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
