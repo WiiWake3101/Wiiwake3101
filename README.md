@@ -127,9 +127,9 @@ fun_facts:
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wiiwake3101&theme=radical&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wiiwake3101&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true" alt="Contribution Activity Graph" />
+</div>
 
 <br/>
 
