@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vivek%20M%20G&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Embedded%20AI%20%7C%20IoT%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vivek%20M%20G&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 </div>
 
@@ -123,11 +123,13 @@ fun_facts:
 
 <br/>
 
+---
+
 ## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wiiwake3101&theme=radical&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wiiwake3101&theme=radical&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%" />
+</p>
 
 <br/>
 
@@ -143,7 +145,7 @@ fun_facts:
   </picture>
 </div>
 
-> **To activate:** Add the `snake.yml` workflow file to `.github/workflows/` in your profile repo (`Wiiwake3101/Wiiwake3101`), then trigger it manually once from the Actions tab. The snake will then auto-update every 12 hours.
+> **To activate:** Add the `snake.yml` workflow file to `.github/workflows/` in your profile repo (`Wiiwake3101/Wiiwake3101`), then trigger it manually once from the Actions tab. The snake will then auto-update daily.
 
 <br/>
 
